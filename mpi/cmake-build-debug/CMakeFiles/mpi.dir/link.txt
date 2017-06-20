@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/mpi.dir/main.c.o  -o mpi.exe -Wl,--out-implib,libmpi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
